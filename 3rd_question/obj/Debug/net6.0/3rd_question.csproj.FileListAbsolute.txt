@@ -1,0 +1,15 @@
+D:\logical_questions\logical_questions\3rd_question\bin\Debug\net6.0\3rd_question.exe
+D:\logical_questions\logical_questions\3rd_question\bin\Debug\net6.0\3rd_question.deps.json
+D:\logical_questions\logical_questions\3rd_question\bin\Debug\net6.0\3rd_question.runtimeconfig.json
+D:\logical_questions\logical_questions\3rd_question\bin\Debug\net6.0\3rd_question.dll
+D:\logical_questions\logical_questions\3rd_question\bin\Debug\net6.0\3rd_question.pdb
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\3rd_question.csproj.AssemblyReference.cache
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\3rd_question.GeneratedMSBuildEditorConfig.editorconfig
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\3rd_question.AssemblyInfoInputs.cache
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\3rd_question.AssemblyInfo.cs
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\3rd_question.csproj.CoreCompileInputs.cache
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\3rd_question.dll
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\refint\3rd_question.dll
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\3rd_question.pdb
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\3rd_question.genruntimeconfig.cache
+D:\logical_questions\logical_questions\3rd_question\obj\Debug\net6.0\ref\3rd_question.dll

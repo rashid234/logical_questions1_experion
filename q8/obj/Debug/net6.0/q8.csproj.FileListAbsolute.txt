@@ -1,0 +1,15 @@
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\q8.csproj.AssemblyReference.cache
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\q8.GeneratedMSBuildEditorConfig.editorconfig
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\q8.AssemblyInfoInputs.cache
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\q8.AssemblyInfo.cs
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\q8.csproj.CoreCompileInputs.cache
+D:\logical_questions\logical_questions\q8\bin\Debug\net6.0\q8.exe
+D:\logical_questions\logical_questions\q8\bin\Debug\net6.0\q8.deps.json
+D:\logical_questions\logical_questions\q8\bin\Debug\net6.0\q8.runtimeconfig.json
+D:\logical_questions\logical_questions\q8\bin\Debug\net6.0\q8.dll
+D:\logical_questions\logical_questions\q8\bin\Debug\net6.0\q8.pdb
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\q8.dll
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\refint\q8.dll
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\q8.pdb
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\q8.genruntimeconfig.cache
+D:\logical_questions\logical_questions\q8\obj\Debug\net6.0\ref\q8.dll

@@ -1,0 +1,15 @@
+D:\logical_questions\logical_questions\2nd_question\bin\Debug\net6.0\2nd_question.exe
+D:\logical_questions\logical_questions\2nd_question\bin\Debug\net6.0\2nd_question.deps.json
+D:\logical_questions\logical_questions\2nd_question\bin\Debug\net6.0\2nd_question.runtimeconfig.json
+D:\logical_questions\logical_questions\2nd_question\bin\Debug\net6.0\2nd_question.dll
+D:\logical_questions\logical_questions\2nd_question\bin\Debug\net6.0\2nd_question.pdb
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\2nd_question.csproj.AssemblyReference.cache
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\2nd_question.GeneratedMSBuildEditorConfig.editorconfig
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\2nd_question.AssemblyInfoInputs.cache
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\2nd_question.AssemblyInfo.cs
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\2nd_question.csproj.CoreCompileInputs.cache
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\2nd_question.dll
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\refint\2nd_question.dll
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\2nd_question.pdb
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\2nd_question.genruntimeconfig.cache
+D:\logical_questions\logical_questions\2nd_question\obj\Debug\net6.0\ref\2nd_question.dll
